@@ -1,2 +1,2 @@
-#[Crypto 100] Fight  
+# [Crypto 100] Fight  
 
