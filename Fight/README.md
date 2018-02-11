@@ -28,3 +28,6 @@ print(flag)
 ```
 
 Here is [solver script](https://github.com/ykm11/HarekazeCTF2018/blob/master/Fight/solver.py)
+  
+By the way, the problem name, Fight, is derived from Phi.  
+Did you know?  
