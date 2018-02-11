@@ -27,7 +27,10 @@ flag = xor(enc, key)
 print(flag)
 ```
 
-Here is [solver script](https://github.com/ykm11/HarekazeCTF2018/blob/master/Fight/solver.py)
-  
+Here is [solver script](https://github.com/ykm11/HarekazeCTF2018/blob/master/Fight/solver.py)  
+
+Flag is `HarekazeCTF{3ul3rrrrrrrrr_t0000000t1nt!!!!!}`  
+<br />  
+<br />  
 By the way, the problem name, Fight, is derived from Phi.  
 Did you know?  
