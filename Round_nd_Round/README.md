@@ -49,8 +49,7 @@ y = q * x/(q-1) - q             (4)
 
 
 in (4), q is only undetermined
-
 ```
 
-(4) is a monotonically decreasing function. (you can confirm by defferentiating with p.  
+(4) is a monotonically decreasing function, (confirmed by defferentiating with p.) so that you can calculate q.
 Finally, here is [solver scripto](https://github.com/ykm11/HarekazeCTF2018/blob/master/Round_nd_Round/solver.py)
